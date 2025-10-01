@@ -1,6 +1,6 @@
 hl2 mounter
 
-currently working:
+currently implemented:
 
 models (including ragdolls and props with proper joints/collisions), materials, textures, sounds
 
