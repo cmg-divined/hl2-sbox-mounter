@@ -1,5 +1,9 @@
 hl2 mounter
 
+currently working:
+
+models (including ragdolls and props with proper joints/collisions), materials, textures, sounds
+
 TODO:
 
 flexes/morphs once accessible via the API
