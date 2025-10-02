@@ -1,4 +1,4 @@
-hl2 mounter for use to play around with some stuff in the sandbox gamemode on s&box
+hl2 mounter (which checks for game ownership & installation through Steam and then introduces assets from the installation to s&box) for use to play around with some stuff in the sandbox gamemode on s&box
 
 currently implemented:
 
@@ -12,3 +12,5 @@ maps/scenes once also accessible/have a valid example from an official mount
 
 compile instructions:
 dotnet build .\hl2.csproj -c Release in proj folder, find the Sandbox.Mounting.hl2.dll and put it in sbox game folder, mount\hl2\ - afterwards copy Assets\shaders\ into there from this folder
+
+if any situation arises where this wants to be taken down simply contact me and it will be removed
